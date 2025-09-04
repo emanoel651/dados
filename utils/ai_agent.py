@@ -12,7 +12,7 @@ def gerar_insights(df: pd.DataFrame) -> str:
     """
     try:
         response = openai.chat.completions.create(
-            model="gpt-5.0-nano",
+            model="gpt-4o-mini",
             messages=[{"role": "system", "content": "Você é um analista de dados."},
                       {"role": "user", "content": prompt}],
             temperature=0.5,
