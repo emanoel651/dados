@@ -3,8 +3,8 @@ pandas
 plotly
 openai
 python-dotenv
-
 pdfplumber
 openpyxl
 psycopg2-binary
 SQLAlchemy
+pypdf
