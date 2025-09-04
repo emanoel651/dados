@@ -1,0 +1,16 @@
+# Credenciais
+.env
+.streamlit/secrets.toml
+
+# Dados locais
+*.xlsx
+*.xls
+*.ods
+*.csv
+PDFS/
+data/nfs/
+
+# Cache e temporários
+__pycache__/
+*.pyc
+.pytest_cache/
