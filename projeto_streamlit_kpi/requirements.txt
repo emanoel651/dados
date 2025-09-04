@@ -3,7 +3,7 @@ pandas
 plotly
 openai
 python-dotenv
-
+PdfReader
 pdfplumber
 openpyxl
 psycopg2-binary
